@@ -1,46 +1,58 @@
 # DAM-25-26_ENDES 
 ## Lenguaje seleccionado:
 Los filtros aplicados para todos los lenguajes, fueron los siguientes:
-Jornada completa, en remoto, presencial, desarrollo de Software.
+Jornada completa, en remoto, presencial, desarrollo de software.
 
 1. Java  
-
-   <img src="IMG/Java-worldwide.jpg" alt="Ofertas de desarrollador de Java Worldwide" width="500px" height="500px">
-   <img src="IMG/Java-spain.jpg" alt="Ofertas de desarrollador de Java Spain" width="500px" height="500px">
+  ![Ofertas de desarrollador de Java Worldwide](/IMG/Java-worldwide.png)
+  ![Ofertas de desarrollador de Java Spain](/IMG/Java-spain.png)
+   
+ 
 
 2. Python
-   
- <img src="IMG/Python-worldwide.jpg" alt="Ofertas de desarrollador de Python Worldwide" width="500px" height="500px">
- <img src="IMG/Python-spain.jpg" alt="Ofertas de desarrollador de Python Spain" width="500px" height="500px">
+     ![Ofertas de desarrollador de Python Worldwide](/IMG/Python-worldwide.png)
+     ![Ofertas de desarrollador de Python Spain](/IMG/Python-spain.png)
 
 3. C#
-   
-<img src="IMG/C#-Worldwide.jpg" alt="Ofertas de desarrollador de C# Worldwide" width="500px" height="500px">
-<img src="IMG/C#-spain.jpg" alt="Ofertas de desarrollador de C# Spain" width="500px" height="500px">
+ 
+    ![Ofertas de desarrollador de C# Worldwide](/IMG/C#-worldwide.png)
+    ![Ofertas de desarrollador de C# Spain](/IMG/C#-spain.png)
+
 
 5. C
    
-<img src="IMG/C-worldwide.jpg" alt="Ofertas de desarrollador de C Worldwide" width="500px" height="500px">
-<img src="IMG/C-spain.jpg" alt="Ofertas de desarrollador de C Spain" width="500px" height="500px">
+    ![Ofertas de desarrollador de C Worldwide](/IMG/C-worldwide.png)
+    ![Ofertas de desarrollador de C Spain](/IMG/C-spain.png)
 
 6. C++
-<img src="IMG/C++-worldwide.jpg" alt="Ofertas de desarrollador de C++ Worldwide" width="500px" height="500px">   
-<img src="IMG/C++-spain.jpg" alt="Ofertas de desarrollador de C++ Worldwide" width="500px" height="500px">
-7.Javascript
-<img src="IMG/Javascript-worldwide.jpg" alt="Ofertas de desarrollador de Javascript Worldwide" width="500px" height="500px">
-<img src="IMG/Javascript-spain.jpg" alt="Ofertas de desarrollador de Javascript Spain" width="500px" height="500px">
-8.PHP
-<img src="IMG/PHP-worldwide.jpg" alt="Ofertas de desarrollador de PHP Worldwide" width="500px" height="500px">
-<img src="IMG/PHP-spain.jpg" alt="Ofertas de desarrollador de PHP Spain" width="500px" height="500px">
-9.VB .NET
-<img src="IMG/VB.NET-worldwide.jpg" alt="Ofertas de desarrollador de VB.NET Worldwide" width="500px" height="500px">
-<img src="IMG/VB.NET-spain.jpg" alt="Ofertas de desarrollador de VB.NET Spain" width="500px" height="500px">
-10.Ruby.NET
- <img src="IMG/Ruby-worldwide.jpg" alt="Ofertas de desarrollador de Ruby Worldwide" width="500px" height="500px">
-<img src="IMG/Ruby-spain.jpg" alt="Ofertas de desarrollador de Ruby Spain" width="500px" height="500px">  
+    ![Ofertas de desarrollador de C++ Worldwide](/IMG/C++-worldwide.png)
+    ![Ofertas de desarrollador de C++ Spain](/IMG/C++-spain.png)
    
-## Clasificación a nivel global 
+6.Javascript
+     ![Ofertas de desarrollador de Javascript Worldwide](/IMG/Javascript-worldwide.png)
+     ![Ofertas de desarrollador de Javascript Spain](/IMG/Javascript-spain.png)
+7.PHP
+     ![Ofertas de desarrollador de PHP Worldwide](/IMG/PHP-worldwide.png)
+     ![Ofertas de desarrollador de PHP Spain](/IMG/PHP-spain.png)
+8.VB .NET
+     ![Ofertas de desarrollador de VB.NET Worldwide](/IMG/VB.NET-worldwide.png)
+     ![Ofertas de desarrollador de VB.NET Spain](/IMG/VB.NET-spain.png)
+9.Ruby.NET
+     ![Ofertas de desarrollador de Ruby Worldwide](/IMG/Ruby-worldwide.png)
+     ![Ofertas de desarrollador de VB.NET Spain](/IMG/Ruby-spain.png)
+     
+## Clasificación
 
+| Language   | Spain | Worldwide |
+|------------|-------|-----------|
+| C++        | 1,947 | 92,261    |
+| C          | 177   | 948       |
+| Java       | 153   | 2,271     |
+| Python     | 150   | 662       |
+| PHP        | 129   | 691       |
+| JavaScript | 121   | 686       |
+| VB.NET     | 117   | 532       |
+| C#         | 112   | 658       |
+| Ruby       | 97    | 951       |
 
-## Clasificación a nivel España
 
