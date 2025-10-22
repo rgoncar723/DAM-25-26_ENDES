@@ -17,12 +17,15 @@ Error 3: Al poner un número negativo de un alumno, automáticamente pasa a hace
 Erro 4: (Según lo visto en clases) Hay ausencia de llaves en el if, aunque se puede hacer en comandos de una sola línea, no sería posible agregar un else o un else if.
 
 # Cómo los detectaste (qué breakpoint/qué vista/qué valor te lo mostró).
-Error 1: Lo detecté cuando ingresé 5 en número de alumnos y me pidió 6 valores. Esto se puede presenciar en el breakpoint de la varaible int, en la impresión en consola, y en el while
+Error 1: Lo detecté cuando ingresé 5 en el número de alumnos y me pidió 6 valores. Esto se puede presenciar en el breakpoint de la varaible int, en la impresión en consola, y en el while
 Error 2: Lo detecté cuando ingresé un número negativo y aún así realizó la suma. Utilice el breakpoint de suma y contador++. 
 Error 3: Al escribir un número negativo en la consola del depurador, salta directamente a la media.
 Error 4: Desde el punto de vista del depurador no muestra el error; no obstante, al mirar el código es posible apreciar el error.
 
 # Qué cambios hiciste para corregirlos.
+Error 1: contador < numAlumnos : De esta manera no generará un valor más al solicitado.
+Error 2: "alumno " + (contador + 1) : Debido a que el alumno 0, como hemos mencionado, no es correcto ni intuitivo.
+Error 3: Con un if-else: Pude corregir el error del número negativo que se sumaba a la media.
 
 
 # Configura un breakpoint condicional que se dispare solo cuando la nota sea inválida.
