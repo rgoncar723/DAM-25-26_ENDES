@@ -1,0 +1,28 @@
+# PR-Eclipse-04-DebugProgerr
+# 1. Deouración del programa
+Hemos colocado breakpoints en:
+- "int numAlumnos = sc.nextInt();"
+- "while (contador <= numAlumnos)"
+- "double nota = sc.nextDouble();"
+- "if (nota < 0 || nota > 10)"
+- "suma = suma + nota;"
+- "contador++;"
+- "double media = suma / numAlumnos;"
+# Descripción de los errores encontrados (qué pasaba y por qué).
+
+Error 1: El alumno 0 no existe. Ya que al inicializar la variable con 0 hace que el bucle continúe hasta el número de alumnos que has escrito anteriormente,
+llegando a obtener un valor de más en la suma. Y sin embargo, realiza una media del número escrito previamente generando así una media incorrecta. Debe inicializar con alumno 1 y contador 1.
+Error 2: Realiza la suma de un número fuera de rango.
+Error 3: Al poner un número negativo de un alumno, automáticamente pasa a hacer la media terminando así el programa.
+Erro 4: (Según lo visto en clases) Hay ausencia de llaves en el if, aunque se puede hacer en comandos de una sola línea, no sería posible agregar un else o un else if.
+
+# Cómo los detectaste (qué breakpoint/qué vista/qué valor te lo mostró).
+Error 1: Lo detecté cuando ingresé 5 en número de alumnos y me pidió 6 valores. Esto se puede presenciar en el breakpoint de la varaible int, en la impresión en consola, y en el while
+Error 2: Lo detecté cuando ingresé un número negativo y aún así realizó la suma. Utilice el breakpoint de suma y contador++. 
+Error 3: Al escribir un número negativo en la consola del depurador, salta directamente a la media.
+Error 4: Desde el punto de vista del depurador no muestra el error; no obstante, al mirar el código es posible apreciar el error.
+
+# Qué cambios hiciste para corregirlos.
+
+
+# Configura un breakpoint condicional que se dispare solo cuando la nota sea inválida.
